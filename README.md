@@ -3,7 +3,8 @@
 A secure, real-time bookmark manager built with Next.js (App Router) and Supabase.
 Users can log in with Google, create private bookmarks, and see real-time updates across multiple tabs.
 
-🔗 Live Demo: https://your-vercel-url.vercel.app
+🔗 Live Demo: [https://your-vercel-url.vercel.app](https://smart-bookmark-app-seven-red.vercel.app/)
+
 📂 GitHub Repo: https://github.com/bhavyasrivastava014/smart-bookmark-app
 
 🚀 Tech Stack
